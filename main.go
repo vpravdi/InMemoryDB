@@ -3,6 +3,10 @@
 //SET "key" "value"
 //GET "key"
 //DEL "key"
+//Example:
+//SET cat persian
+//GET cat
+//DEL cat
 package main
 
 import (
