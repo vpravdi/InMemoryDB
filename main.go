@@ -7,6 +7,7 @@
 //SET cat persian
 //GET cat
 //DEL cat
+//common applications like cache usage, session specific environmental variables etc.,
 package main
 
 import (
